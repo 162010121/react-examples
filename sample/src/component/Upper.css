@@ -1,0 +1,8 @@
+.Upper
+    {
+        color: red;
+        background-color: aqua;
+        padding: 10px;
+        margin: 10px;
+        touch-action: cross-slide-x;
+      }

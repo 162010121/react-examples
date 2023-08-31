@@ -1,0 +1,43 @@
+[ 
+  {
+    "id":1,
+    "name":"Kurnool"
+   },
+   {
+    "id":2,
+    "name":"Kadapa"
+   },
+   {
+    "id":3,
+    "name":"Nandyala"
+   },
+   {
+    "id":4,
+    "name":"Ananthapur"
+   },
+   {
+    "id":5,
+    "name":"Thirupati"
+   },
+   {
+    "id":6,
+    "name":"Chittor"
+   },
+   {
+    "id":7,
+    "name":"Vijayawada"
+   },
+   {
+    "id":8,
+    "name":"Vishkapattanam"
+   },
+   {
+    "id":9,
+    "name":"Hyderabad"
+   },
+   {
+    "id":10,
+    "name":"Ongole"
+   }
+
+]
